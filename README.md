@@ -1,4 +1,4 @@
-## Car ride gmae
+## Car ride game
 ### Player Experience: 
 - Relaxing
 ### Core Mechanic: 
