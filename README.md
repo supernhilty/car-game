@@ -1,4 +1,4 @@
-## Car ride game
+## Car game
 ### Player Experience: 
 - Relaxing
 ### Core Mechanic: 
